@@ -11,6 +11,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem 'bootstrap-sass'
+gem 'autoprefixer-rails'
 gem 'devise', '~> 3.4.0' 
 gem 'mailboxer'
 
