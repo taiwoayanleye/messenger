@@ -9,12 +9,13 @@ gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
+gem 'compass-rails'
 
 gem 'bootstrap-sass'
 gem 'autoprefixer-rails'
 gem 'devise', '~> 3.4.0' 
 gem 'mailboxer'
-gem 'chosen-rails'
+gem 'chosen-rails', '~> 0.13.2'
 
 group :development do
 	gem 'better_errors'
