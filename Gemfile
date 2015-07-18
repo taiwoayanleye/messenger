@@ -12,10 +12,9 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'compass-rails'
 
 gem 'bootstrap-sass'
-gem 'autoprefixer-rails'
 gem 'devise', '~> 3.4.0' 
 gem 'mailboxer'
-gem 'chosen-rails', '~> 0.13.2'
+gem 'chosen-rails'
 
 group :development do
 	gem 'better_errors'
