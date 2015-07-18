@@ -1,7 +1,6 @@
 source 'https://rubygems.org'
 ruby "2.2.2"
 gem 'rails', '4.2.1'
-gem 'sqlite3'
 gem 'devise'
 gem 'mailboxer'
 
@@ -18,6 +17,7 @@ end
 
 group :development do
 	gem 'better_errors'
+	gem 'sqlite3'
 end
 
 group :production do
